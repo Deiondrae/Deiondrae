@@ -1,4 +1,3 @@
-### Hi there 👋
 I am a Full Stack Developer looking to break into the industry and learn the tricks of the trade, while leveraging my background in psychology to build more intuitive user experiences on the web. Currently working towards a certificate in full stack development from the university of Toronto and am developing skills in JavaScript, CSS, React.js, and responsive web design. Known as an innovative problem-solver with a keen eye for opportunities to improve user experience and a focus on mobile-first design and development. Excited to leverage these new skills in the future as part of a fast-paced, quality-driven team to build better experiences on the web.
 <!--
 **Deiondrae/Deiondrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
